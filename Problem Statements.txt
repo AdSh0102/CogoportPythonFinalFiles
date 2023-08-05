@@ -1,0 +1,12 @@
+Problem Statement 1 (Classification)
+Find out if a person is going to default on Credit Card Payment  
+given some clients Data Set
+
+Problem Statement 2 (Regression)
+Predict the number of shares of an article in social networks using a dataset
+
+Problem Statement 3 (Regression)
+To predict the flight prices given a dataset with information such as 'airline', 'source_city', 'departure_time', 'stops', 'arrival_time', 'destination_city', 'class', 'duration', 'days_left', and, 'price'
+
+Problem Statement 4 (Classification)
+Predict which passengers survived the Titanic shipwreck
